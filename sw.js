@@ -20,7 +20,7 @@ self.addEventListener('active', function () {
 });
 
 var precacheUrls = [
-'/','/posts/33206/','/posts/1536/',
+'/','/posts/56443/','/posts/20863/','/posts/33206/','/posts/1536/',
 ];
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
