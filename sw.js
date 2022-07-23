@@ -20,7 +20,7 @@ self.addEventListener('active', function () {
 });
 
 var precacheUrls = [
-'/','/posts/17418/','/posts/10025/','/posts/57702/','/posts/18669/','/posts/65104/','/posts/31024/','/posts/17711/','/posts/54839/','/posts/35182/','/posts/52648/','/posts/54840/','/posts/31023/','/posts/56444/','/posts/20863/','/posts/56443/','/posts/33206/','/posts/1536/',
+'/','/posts/29713/','/posts/17418/','/posts/10025/','/posts/0/','/posts/57702/','/posts/18669/','/posts/65104/','/posts/31024/','/posts/17711/','/posts/54839/','/posts/35182/','/posts/52648/','/posts/54840/','/posts/31023/','/posts/56444/','/posts/56443/','/posts/20863/','/posts/33206/','/posts/1536/',
 ];
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
